@@ -2,6 +2,6 @@
 
 Repository of Practice Sets 4
 
-Name: Anirudh Raghavendra Rao
+**Name:** Anirudh Raghavendra Rao
 
-UD Email: anirudh@udel.edu
+**UD Email:** anirudh@udel.edu
