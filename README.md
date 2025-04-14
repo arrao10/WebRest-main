@@ -1,6 +1,6 @@
 # CISC637 - PS4
 
-Repository of Practice Sets 4
+Repository of Practice Set 4
 
 **Name:** Anirudh Raghavendra Rao
 
